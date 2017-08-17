@@ -9,7 +9,8 @@
 
   <!-- Bootstrap -->
   <link href="_css/bootstrap.min.css" rel="stylesheet">
-  <!-- <link href="_css/ala-styles.css" rel="stylesheet"> -->
+  <!-- <link href="_css/ala-pattern-library-styles.css" rel="stylesheet"> -->
+  <link href="ywt-pattern-library-styles.css" rel="stylesheet" type="text/css">
 
   <!-- FontAwesome -->
   <!-- <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"> -->
@@ -39,7 +40,7 @@
 			<dl>
 				<dt><a href="_styleguide.php">Style Guide</a></dt>
 				<dd>Basic markup and typographic styles for the application content type</dd>
-        <dt><a href="_article-styleguide.php">Article Style Guide</a></dt>
+        <!-- <dt><a href="_article-styleguide.php">Article Style Guide</a></dt> -->
         <dd>Typographic styles for the article content type</dd>
 				<dt><a href="_patterns.php">Pattern Library</a></dt>
 				<dd>Common snippets of markup</dd>
